@@ -1,0 +1,708 @@
+- generic [active] [ref=e1]:
+  - alert [ref=e2]:
+    - strong [ref=e3]: "Note:"
+    - text: Morey's In Transit is no longer supported and is no longer being updated. This page is preserved for historical reference.
+  - generic [ref=e4]:
+    - generic [ref=e5]:
+      - link "Morey's In Transit Always Seeking Adventure" [ref=e7] [cursor=pointer]:
+        - /url: ../index.html
+        - heading "Morey's In Transit" [level=1] [ref=e8]
+        - heading "Always Seeking Adventure" [level=3] [ref=e9]
+      - navigation [ref=e10]:
+        - list [ref=e12]:
+          - listitem [ref=e13]:
+            - link "Home" [ref=e14] [cursor=pointer]:
+              - /url: ../index.html
+          - listitem [ref=e15]:
+            - link "Who We Are" [ref=e16] [cursor=pointer]:
+              - /url: ../who-we-are/index.html
+          - listitem [ref=e17]:
+            - link "Gidget the Van" [ref=e18] [cursor=pointer]:
+              - /url: ../gidget-the-van/index.html
+          - listitem [ref=e19]:
+            - link "Contact Us" [ref=e20] [cursor=pointer]:
+              - /url: ../contact-us/index.html
+          - listitem [ref=e21]:
+            - link "Subscribe" [ref=e22] [cursor=pointer]:
+              - /url: ../subscribe/index.html
+          - listitem [ref=e23]:
+            - link "Disclosure" [ref=e24] [cursor=pointer]:
+              - /url: ../disclosure/index.html
+        - text: 
+      - generic [ref=e26]:
+        - heading "How-To Install A Roof Fan On Your Van" [level=1] [ref=e27]
+        - generic [ref=e28]:
+          - text: On March 30, 2016 by
+          - link "Tricia" [ref=e29] [cursor=pointer]:
+            - /url: ../author/tricia/index.html
+          - text: "-"
+          - link "how-to" [ref=e30] [cursor=pointer]:
+            - /url: ../category/van/how-to/index.html
+          - text: ","
+          - link "van" [ref=e31] [cursor=pointer]:
+            - /url: ../category/van/index.html
+        - generic [ref=e32]:
+          - paragraph [ref=e33]: Tricia here, writing my first post! Over the weekend we tackled the daunting task of permanently modifying Gidget by installing a roof fan. Neither of us have had the pleasure of cutting a huge hole in a vehicle, so it was a little nerve-wracking.
+          - paragraph [ref=e34]:
+            - text: "When planning our van build we decided not to install a rooftop air conditioning unit. They tend to remove any notions of stealth, are loud, and need a lot of power to operate. But we also want some level of comfort so we settled on a roof fan. After significant research we discovered there is only 2 serious manufactures:"
+            - link "Fan-Tastic" [ref=e35] [cursor=pointer]:
+              - /url: http://amzn.to/1MBsZpp
+            - text: and
+            - link "MaxxAir" [ref=e36] [cursor=pointer]:
+              - /url: http://amzn.to/1pKFjc8
+            - text: . We went with the
+            - link "MaxxAir MAXXFAN Deluxe 7000K" [ref=e37] [cursor=pointer]:
+              - /url: http://amzn.to/1qe8pRL
+            - text: fan because the lid can be open when its raining and when driving.
+          - paragraph
+          - generic [ref=e38]:
+            - link "Finished Roof Fan Install" [ref=e39] [cursor=pointer]:
+              - /url: /wp-content/uploads/2016/03/IMG_0677-Edited-1024x768.jpg
+              - img "Finished Roof Fan Install" [ref=e40]
+            - paragraph [ref=e41]: Gidget with the fan installed.
+          - generic [ref=e42]:
+            - link "Side View of Van and Fan" [ref=e43] [cursor=pointer]:
+              - /url: /wp-content/uploads/2016/03/JPEG-image-944059012F6A-1-1024x768.jpg
+              - img "Side View of Van and Fan" [ref=e44]
+            - paragraph [ref=e45]: Side view of Gidget with fan installed.
+          - heading "Parts" [level=2] [ref=e46]
+          - list [ref=e47]:
+            - listitem [ref=e48]:
+              - link "MaxxAir MAXXFAN Deluxe 7000K" [ref=e49] [cursor=pointer]:
+                - /url: http://amzn.to/1qe8pRL
+              - text: – $289.34
+            - listitem [ref=e50]:
+              - link "Roof Adapter (Ebay affiliate link)" [ref=e51] [cursor=pointer]:
+                - /url: http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=2&pub=5575161272&toolid=10001&campid=5337839244&customid=&icep_item=131748730820&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg
+              - text: – $44 (or $88 for both the top and bottom adapters)
+            - listitem [ref=e52]:
+              - link "Butyl seal tape" [ref=e53] [cursor=pointer]:
+                - /url: http://amzn.to/1UUEZF4
+              - text: – $11.04
+            - listitem [ref=e54]:
+              - link "Eternabond tape" [ref=e55] [cursor=pointer]:
+                - /url: http://amzn.to/22sShJV
+              - text: – $19.07
+            - listitem [ref=e56]:
+              - link "3M 4200 Adhesive" [ref=e57] [cursor=pointer]:
+                - /url: http://amzn.to/1UUF4IJ
+              - text: – $25.08
+            - listitem [ref=e58]: "Zinc coated wood screws (#10 7/8″ and #10 3/4″) and washers (#10) – ~$8"
+            - listitem [ref=e59]: Painter’s tape
+            - listitem [ref=e60]: Duct tape
+            - listitem [ref=e61]: Acetone
+            - listitem [ref=e62]: Isopropyl alcohol
+          - heading "Tools" [level=2] [ref=e63]
+          - list [ref=e64]:
+            - listitem [ref=e65]: Drill
+            - listitem [ref=e66]: Jigsaw
+            - listitem [ref=e67]: Metal cutting blade
+            - listitem [ref=e68]: Caulking gun
+            - listitem [ref=e69]: Phillips screwdriver
+            - listitem [ref=e70]: Safety glasses
+            - listitem [ref=e71]: Gloves
+            - listitem [ref=e72]: Ladder
+            - listitem [ref=e73]: Shop vacuum
+            - listitem [ref=e74]:
+              - link "Metal seam roller" [ref=e75] [cursor=pointer]:
+                - /url: http://amzn.to/1MBxY9B
+          - heading "Time" [level=2] [ref=e76]
+          - paragraph [ref=e77]: We started Saturday around 1:30 PM and finished before lunch on Sunday. Just in time for the little bit of rain we had on Monday morning. It was around 8 hours of actual work not counting the time for the adhesive to cure.
+          - heading "Video" [level=2] [ref=e78]
+          - paragraph [ref=e79]:
+            - iframe [ref=e81]:
+              - generic [active] [ref=f2e1]:
+                - generic "YouTube Video Player" [ref=f2e3]
+                - generic [ref=f2e5]:
+                  - generic:
+                    - generic:
+                      - button "Play video" [ref=f2e10] [cursor=pointer]
+                      - button "Hide player controls" [ref=f2e12] [cursor=pointer]
+                      - generic [ref=f2e14]:
+                        - generic [ref=f2e19]:
+                          - generic [ref=f2e20]:
+                            - link "How-To Install A Roof Fan On Your Van" [ref=f2e21] [cursor=pointer]:
+                              - /url: https://www.youtube.com/watch?v=zco4sR5UK-E
+                            - link "Morey's In Transit" [ref=f2e22] [cursor=pointer]:
+                              - /url: /channel/UCdSbDawwTkVNbgJXyYHxr6g
+                              - generic [ref=f2e23]: Morey's In Transit
+                          - generic [ref=f2e24]:
+                            - button [ref=f2e25] [cursor=pointer]
+                            - generic [ref=f2e27]:
+                              - generic: Morey's In Transit
+                              - generic: 2.77K subscribers
+                        - generic [ref=f2e28]:
+                          - button "Share" [ref=f2e31] [cursor=pointer]:
+                            - generic [ref=f2e35]:
+                              - img
+                          - link "Watch on YouTube" [ref=f2e42] [cursor=pointer]:
+                            - /url: https://www.youtube.com/watch?v=zco4sR5UK-E
+                            - generic [ref=f2e45]:
+                              - text: Watch on
+                              - img [ref=f2e47]:
+                                - generic [ref=f2e49]:
+                                  - img
+          - heading "Instructions" [level=2] [ref=e82]
+          - paragraph [ref=e83]: The first step is to decide where you want to install the fan. We choose the rear of the roof between that last 2 ceiling ribs, 21″ in front of the rear door frame. This spot will be above our future bed and leaves ample room to install solar panels. It also just so happens that the Transit has almost 14″ between the 2 roof ribs.
+          - generic [ref=e84]:
+            - link "Selecting Ceiling Location" [ref=e85] [cursor=pointer]:
+              - /url: /wp-content/uploads/2016/03/empty-ceiling-1024x576.jpg
+              - img "Selecting Ceiling Location" [ref=e86]
+            - paragraph [ref=e87]: We decided to put the fan between the rear 2 ribs.
+          - paragraph [ref=e88]: The Transit roof is thin and dents easily which makes installing a roof fan difficult. The location we chose for the fan is just close enough to lean over from the edge and perform the whole install. Our ladder was just tall enough to lean against the rear of the van. We put a thick blanket between the ladder and the van to protect the surface.
+          - generic [ref=e89]:
+            - link "Ladder leaning against roof of van" [ref=e90] [cursor=pointer]:
+              - /url: /wp-content/uploads/2016/03/2016RoofVent-2-e1459306606323-890x1024.jpg
+              - img "Ladder leaning against roof of van" [ref=e91]
+            - paragraph [ref=e92]: Use a blanket to cushion ladder against roof of van.
+          - paragraph [ref=e93]: Then we prepared the top of the van by washing it with soap and water, and cleaning it with acetone.
+          - generic [ref=e94]:
+            - link "Remove dirt and debris from roof":
+              - /url: /wp-content/uploads/2016/03/cleaning-roof.gif
+              - img "Remove dirt and debris from roof"
+            - paragraph [ref=e95]: Clean surface of roof with acetone.
+          - paragraph [ref=e96]: We then taped off the area where the fan was going to go on the inside and outside with cardboard and painters tape. This stops any of the metal filings from cutting and drilling from landing on the paint.
+          - generic [ref=e97]:
+            - link "Using painters tap to mark ceiling":
+              - /url: /wp-content/uploads/2016/03/taping-ceiling.gif
+              - img "Using painters tap to mark ceiling"
+            - paragraph [ref=e98]: Use painters tape to mark off location of vent fan.
+          - generic [ref=e99]:
+            - link "Used painters tape to make a square where the fan will go" [ref=e100] [cursor=pointer]:
+              - /url: /wp-content/uploads/2016/03/2016RoofVent-25-1024x683.jpg
+              - img "Used painters tape to make a square where the fan will go" [ref=e101]
+            - paragraph [ref=e102]: Painters tape marking off where the vent fan will go.
+          - paragraph [ref=e103]: Next we drilled holes in the 4 corners, starting with a small drill bit and ending with the largest drill bit we had. The hole needs to be just large enough to fit the jigsaw blade. While drilling the holes we used a shop vacuum to suck up all the little metal filings. No turning back now…eek!
+          - generic [ref=e104]:
+            - link "Drilling into the van roof" [ref=e105] [cursor=pointer]:
+              - /url: /wp-content/uploads/2016/03/drilling-into-ceiling-1024x576.jpg
+              - img "Drilling into the van roof" [ref=e106]
+            - paragraph [ref=e107]: Use a power drill to put holes in the 4 corners.
+          - paragraph [ref=e108]:
+            - text: The next step is to connect the holes with a jigsaw and a metal cutting blade. This is where we ran into some troubles. The
+            - link "jigsaw" [ref=e109] [cursor=pointer]:
+              - /url: http://www.harborfreight.com/5-amp-heavy-duty-tool-free-variable-speed-orbital-jig-saw-62422.html
+            - text: we owned was not strong enough to hold the blade in place. We tried several times but the blade would just fall out onto the van floor. Luckily our friend happened to be at Home Depot and picked up this
+            - link "gem" [ref=e110] [cursor=pointer]:
+              - /url: http://amzn.to/1pJk8r2
+            - text: for us. It worked a thousand times better, and after our brief work stoppage, we were back in business.
+          - paragraph [ref=e111]: While Matt was cutting from the top I was below vacuuming any metal filings coming off. After cutting each side we used duct tape to support it.
+          - generic [ref=e112]:
+            - link "Cutting the roof with a jigsaw" [ref=e113] [cursor=pointer]:
+              - /url: /wp-content/uploads/2016/03/2016RoofVent-ScreenShot01.jpg
+              - img "Cutting the roof with a jigsaw" [ref=e114]
+            - paragraph [ref=e115]: Using a jigsaw, cut along the tape to connect the drilled holes.
+          - generic [ref=e116]:
+            - link "Looking up at the ceiling after the cut was finished" [ref=e117] [cursor=pointer]:
+              - /url: /wp-content/uploads/2016/03/2016RoofVent-50-1024x683.jpg
+              - img "Looking up at the ceiling after the cut was finished" [ref=e118]
+            - paragraph [ref=e119]: Matt after finishing the cut. The edges aren’t perfectly straight but that is fine as it is covered by the fan flange.
+          - paragraph [ref=e120]: After cutting the the hole, use a metal file and sandpaper to smooth out the edges.
+          - generic [ref=e121]:
+            - link "A metal file was used on the square after it was cut" [ref=e122] [cursor=pointer]:
+              - /url: /wp-content/uploads/2016/03/IMG_0433-e1459299404462-768x1024.jpg
+              - img "A metal file was used on the square after it was cut" [ref=e123]
+            - paragraph [ref=e124]: Use a metal file to smooth out the rough edges.
+          - paragraph [ref=e125]: Next apply a coat of white paint to the edges to prevent any rust from forming. We did 2 coats and went real heavy on the second coat and let it dry for about an hour.
+          - generic [ref=e126]:
+            - link "Painting edges of cut with white paint" [ref=e127] [cursor=pointer]:
+              - /url: /wp-content/uploads/2016/03/2016RoofVent-65-1024x683.jpg
+              - img "Painting edges of cut with white paint" [ref=e128]
+            - paragraph [ref=e129]: Use while enamel paint and a foam sponge brush to coat raw edges.
+          - paragraph [ref=e130]:
+            - text: The Transit roof is curved but most roof fans assume a flat surface. Some Transit owners have used
+            - link "JB Weld" [ref=e131] [cursor=pointer]:
+              - /url: http://www.fordtransitusaforum.com/ford-transit-general-discussion/23577-installing-maxxfan-weekend.html
+            - text: and
+            - link "adhesive caulk" [ref=e132] [cursor=pointer]:
+              - /url: http://www.fordtransitusaforum.com/camper-vans-conversions/6617-thaden-diy-camper-hr-long.html#post94177
+            - text: to flatten the area out. Some have used
+            - link "spacers" [ref=e133] [cursor=pointer]:
+              - /url: http://www.ortontransit.info/roofvent2.php
+            - text: . We decided to use an
+            - link "adaptor (Ebay affiliate link)" [ref=e134] [cursor=pointer]:
+              - /url: http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=2&pub=5575161272&toolid=10001&campid=5337839244&customid=&icep_item=131748730820&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg
+            - text: on the top of the roof which turns the curved roof into a flat mating surface for the fan base.
+          - paragraph [ref=e135]: You can also buy an adaptor for the inside of the roof. But it won’t fit in the rear location because the roof ribs are too close together. If installing between the middle ribs or the front ribs the inside adapter will work.
+          - paragraph [ref=e136]:
+            - text: We cleaned the roof and adapter with acetone, and then used
+            - link "3M 4200" [ref=e137] [cursor=pointer]:
+              - /url: http://amzn.to/1LYTHrX
+            - text: adhesive to attach the adaptor to the roof. 3 beads on all sides seems like a good amount.
+          - paragraph [ref=e138]:
+            - text: We choose
+            - link "3M 4200" [ref=e139] [cursor=pointer]:
+              - /url: http://amzn.to/1LYTHrX
+            - text: because it allows
+            - link "future disassembly of parts" [ref=e140] [cursor=pointer]:
+              - /url: http://multimedia.3m.com/mws/media/323623O/adhesive-sealant-brochure.pdf
+            - text: . If we were to use
+            - link "3M 5200" [ref=e141] [cursor=pointer]:
+              - /url: http://amzn.to/1MSVs4B
+            - text: I’m guessing the paint would peel off if we ever tried to take the adapter off.
+          - generic [ref=e142]:
+            - link "Adhesive being applied to adapter":
+              - /url: /wp-content/uploads/2016/03/applying-adhesive.gif
+              - img "Adhesive being applied to adapter"
+            - paragraph [ref=e143]: 3 beads of the 3M 4200 adhesive was used on each side of the adapter.
+          - generic [ref=e144]:
+            - link "3M adhesive close up" [ref=e145] [cursor=pointer]:
+              - /url: /wp-content/uploads/2016/03/2016RoofVent-91-1024x683.jpg
+              - img "3M adhesive close up" [ref=e146]
+            - paragraph [ref=e147]: Close up to see how much adhesive was applied to the adapter.
+          - paragraph [ref=e148]: After placing the adaptor on the roof, we used 4 clamps to gently hold it down. You don’t need to clamp it down super tight, just enough to make sure there is a good seal. If you clamp it too much you will bend the roof.
+          - paragraph [ref=e149]:
+            - text: By this point, the sun was starting to set, we were tired, and the
+            - link "3M 4200" [ref=e150] [cursor=pointer]:
+              - /url: http://amzn.to/1LYTHrX
+            - text: adhesive needed time to cure. We covered the van with a cardboard box and plastic tarp just in case it rained overnight, and called it a day.
+          - generic [ref=e151]:
+            - link "4 clamps being used to hold down the adapter" [ref=e152] [cursor=pointer]:
+              - /url: /wp-content/uploads/2016/03/2016RoofVent-122-1024x683.jpg
+              - img "4 clamps being used to hold down the adapter" [ref=e153]
+            - paragraph [ref=e154]: Clamped each side to allow 3M 4200 adhesive time to cure.
+          - paragraph [ref=e155]: Sunday morning we started around 8 am to be sure it was finished before the forecasted rain on Monday. The adaptor had over 12 hours to adhere to the 3M 4200 and van roof. We put a little bit of pressure on it and determined it wasn’t going anywhere.
+          - generic [ref=e156]:
+            - link "Adapter sealed to roof top" [ref=e157] [cursor=pointer]:
+              - /url: /wp-content/uploads/2016/03/2016RoofVent-127-1024x683.jpg
+              - img "Adapter sealed to roof top" [ref=e158]
+            - paragraph [ref=e159]: Close up of adapter adhered to roof.
+          - paragraph [ref=e160]:
+            - text: It was now time to install the fan flange to the adapter. The surface was first cleaned with isopropyl alcohol. The
+            - link "fan instructions" [ref=e161] [cursor=pointer]:
+              - /url: http://www.airxcel.com/maxxair/products/fans/maxxfan-deluxe/docs/default-source/maxxair/fans/maxxfan-deluxe/11b90001k_maxxfan-deluxe-install-rev-b-01-2016
+            - text: say not to use acetone and the 3M 4200 instructions say not to use alcohol. So when cleaning anything that touches the 3M 4200 we used acetone and for the fan we used alcohol.
+          - paragraph [ref=e162]:
+            - text: Next we added
+            - link "butyl seal tape" [ref=e163] [cursor=pointer]:
+              - /url: http://amzn.to/1UUEZF4
+            - text: to the bottom of the flange. The flange is just wide enough to fit 2 strips of the tape.
+          - generic [ref=e164]:
+            - link "Fan flange with butyl tape":
+              - /url: /wp-content/uploads/2016/03/applying-butyl-tape.gif
+              - img "Fan flange with butyl tape"
+            - paragraph [ref=e165]: Us applying the butyl tape to the bottom side of the MaxxFan adapter flange.
+          - paragraph [ref=e166]: "The flange was then attached to the adapter using #10 zinc coated wood screws and washers. The thicker side used #10 7/8″ and the thinner side used #10 3/4″. First pre-drill the screw holes. We did not drill into the van roof, just into the adapter. We recommend hand tightening the screws to avoid cracking the plastic fan flange."
+          - paragraph [ref=e167]: We wanted to avoid using screws and just use 3M 4200 to attach the flange to the adapter. But 3M 4200 contains Xylene which according to the fan instructions shouldn’t be used on the plastic. In hindsight, it probably wouldn’t have mattered and we should of done a small test on the plastic to see what would have happened.
+          - generic [ref=e168]:
+            - link "Screwing flange to adapter":
+              - /url: /wp-content/uploads/2016/03/screwing-in-screws.gif
+              - img "Screwing flange to adapter"
+            - paragraph [ref=e169]: "Screwing in the #10 screws with washers through the flange into the pre-drilled holes in the adapter."
+          - generic [ref=e170]:
+            - link "Screwing the flange to the adapter" [ref=e171] [cursor=pointer]:
+              - /url: /wp-content/uploads/2016/03/2016RoofVent-165-1024x683.jpg
+              - img "Screwing the flange to the adapter" [ref=e172]
+            - paragraph [ref=e173]: Using the hole in the roof to install the screws instead of leaning over from the ladder.
+          - paragraph [ref=e174]: After the flange was screwed down any excess butyl tape was removed using a box cutter.
+          - paragraph [ref=e175]:
+            - text: Next
+            - link "Eternabond" [ref=e176] [cursor=pointer]:
+              - /url: http://amzn.to/1M0scy9
+            - text: tape was laid down on the van, adapter, and fan flange. The white Eternabond tape is primarily used as a weather seal to keep water from leaking into the van and secondarily as another adhesive keeping the fan attached to the van. The Eternabond is extremely sticky, so be cautious while installing it, because once it is down, it is pretty impossible to remove.
+          - paragraph [ref=e177]:
+            - text: After you place the tape down use your hand to apply pressure and then follow that up with a
+            - link "metal seam roller" [ref=e178] [cursor=pointer]:
+              - /url: http://amzn.to/1MBxY9B
+            - text: .
+          - generic [ref=e179]:
+            - link "Eternabond tape install" [ref=e180] [cursor=pointer]:
+              - /url: /wp-content/uploads/2016/03/2016RoofVent-209-1024x683.jpg
+              - img "Eternabond tape install" [ref=e181]
+            - paragraph [ref=e182]: Installing the Eternabond tape.
+          - generic [ref=e183]:
+            - link "Close up of Eternabond tape" [ref=e184] [cursor=pointer]:
+              - /url: /wp-content/uploads/2016/03/2016RoofVent-216-1024x683.jpg
+              - img "Close up of Eternabond tape" [ref=e185]
+            - paragraph [ref=e186]: It might not look pretty, but I do not see any water getting through that tape.
+          - paragraph [ref=e187]: It was now time to actually place the fan on the roof. This part was easy, guide the wires down through the hole and then place the opened fan on top of the flange. The fan instructions require you to manually open the fan before installation. While Matt was on top of the van, I was down below and used a thin flat head screwdriver to push up the metal clips slightly. Then Matt screwed in the fan with the 4 provided screws.
+          - paragraph [ref=e188]: If you want you can also take of the MaxxFan stickers. They peel right off.
+          - generic [ref=e189]:
+            - link "Roof vent installed on flange" [ref=e190] [cursor=pointer]:
+              - /url: /wp-content/uploads/2016/03/2016RoofVent-221-1024x683.jpg
+              - img "Roof vent installed on flange" [ref=e191]
+            - paragraph [ref=e192]: Roof vent installed on top of roof.
+          - paragraph [ref=e193]:
+            - text: Next was the moment of truth. Would the fan work? We hooked it up using our
+            - link "car jump starter" [ref=e194] [cursor=pointer]:
+              - /url: http://amzn.to/1q2JpgC
+            - text: and crossed our fingers.
+          - generic [ref=e195]:
+            - link "Fan Closing when powered up":
+              - /url: /wp-content/uploads/2016/03/fan-closing-for-the-first-time.gif
+              - img "Fan Closing when powered up"
+            - paragraph [ref=e196]: Fan closing for the first time
+          - paragraph [ref=e197]: With a sigh of relief, the vent closed when powered on, like the instructions stated it would. The fan works!
+          - generic [ref=e198]:
+            - link "Fan inside rotating" [ref=e199] [cursor=pointer]:
+              - /url: /wp-content/uploads/2016/03/2016RoofVent-228-1024x683.jpg
+              - img "Fan inside rotating" [ref=e200]
+            - paragraph [ref=e201]: Fan rotating from the inside of the van.
+          - generic [ref=e202]:
+            - link "Finished Roof Fan Install" [ref=e203] [cursor=pointer]:
+              - /url: /wp-content/uploads/2016/03/IMG_0677-Edited-1024x768.jpg
+              - img "Finished Roof Fan Install" [ref=e204]
+            - paragraph [ref=e205]: Gidget with the fan installed.
+          - paragraph [ref=e206]: Once we install our house electrical system we will wire up the fan. And once the ceiling is done we can place the interior trim piece to cover the raw edges.
+          - paragraph [ref=e207]:
+            - text: If we did the install over we would have done a better job covering the top of the van to prevent metal filings from landing on the paint. We did a pretty good job with cardboard but it still allowed some filing to work there way under the cardboard. We would have used 3M 4200 to mount the flange to the adapter plate instead of screws. Finally, we would have used
+            - link "lap sealant" [ref=e208] [cursor=pointer]:
+              - /url: http://amzn.to/1RyHgjm
+            - text: instead of the Eternabond tape as the end result isn’t as clean looking as it could have been.
+          - generic [ref=e210]:
+            - heading "Share this:" [level=3] [ref=e211]
+            - list [ref=e213]:
+              - listitem [ref=e214]:
+                - link "Share on X (Opens in new window)" [ref=e215] [cursor=pointer]:
+                  - /url: https://moreysintransit.com/install-roof-fan-van/?share=twitter
+                  - text: X
+              - listitem [ref=e216]:
+                - link "Share on Facebook (Opens in new window)" [ref=e217] [cursor=pointer]:
+                  - /url: https://moreysintransit.com/install-roof-fan-van/?share=facebook
+                  - text: Facebook
+              - listitem [ref=e218]
+          - heading "Related" [level=3] [ref=e220]:
+            - emphasis [ref=e221]: Related
+        - generic [ref=e223]:
+          - heading "28 Comments" [level=3] [ref=e224]
+          - list [ref=e225]:
+            - listitem [ref=e226]:
+              - generic [ref=e229]:
+                - link "Reply to scott moffatt" [ref=e230] [cursor=pointer]:
+                  - /url: https://moreysintransit.com/install-roof-fan-van/?replytocom=2#respond
+                  - text: Reply
+                - generic [ref=e231]:
+                  - generic [ref=e232]: scott moffatt
+                  - generic [ref=e233]: March 30, 2016
+                - paragraph [ref=e235]: Looking good! Really enjoy reading your blog, like the thorough pictures and write up, some good ideas for my build which looks close to yours thus far, waiting for my Quadvan conversion. Thanks!
+            - listitem [ref=e236]:
+              - generic [ref=e239]:
+                - link "Reply to Antoine Gagne" [ref=e240] [cursor=pointer]:
+                  - /url: https://moreysintransit.com/install-roof-fan-van/?replytocom=3#respond
+                  - text: Reply
+                - generic [ref=e241]:
+                  - link "Antoine Gagne" [ref=e243] [cursor=pointer]:
+                    - /url: http://faroutride.com/
+                  - generic [ref=e244]: March 30, 2016
+                - generic [ref=e245]:
+                  - paragraph [ref=e246]:
+                    - text: Very comprehensive write-up and pictures.
+                    - text: You’re a few months ahead of us with your Transit conversion; that will help us for sure!
+                  - paragraph [ref=e247]: Keep up the good work!
+                  - paragraph [ref=e248]:
+                    - text: Cheers,
+                    - text: Antoine
+            - listitem [ref=e249]:
+              - generic [ref=e252]:
+                - link "Reply to Claudia S" [ref=e253] [cursor=pointer]:
+                  - /url: https://moreysintransit.com/install-roof-fan-van/?replytocom=4#respond
+                  - text: Reply
+                - generic [ref=e254]:
+                  - generic [ref=e255]: Claudia S
+                  - generic [ref=e256]: March 31, 2016
+                - paragraph [ref=e258]: "Hi M&P, I like your website! I am glad you are actually trying to do a good job and following instructions to the letter when it comes to chemicals: “3M 4200 contains Xylene which according to the fan instructions shouldn’t be used on the plastic” It is all a live an learn. Glad you are having fun doing the retro fitting."
+            - listitem [ref=e259]:
+              - generic [ref=e262]:
+                - link "Reply to Doug Morey" [ref=e263] [cursor=pointer]:
+                  - /url: https://moreysintransit.com/install-roof-fan-van/?replytocom=5#respond
+                  - text: Reply
+                - generic [ref=e264]:
+                  - generic [ref=e265]: Doug Morey
+                  - generic [ref=e266]: April 16, 2016
+                - paragraph [ref=e268]: Don’t you have something better to do? Like save the world or something? Love you both, Dad!
+            - listitem [ref=e269]:
+              - generic [ref=e271]:
+                - link "Reply to Fan install with 3m 4000UV - Ford Transit USA Forum" [ref=e272] [cursor=pointer]:
+                  - /url: https://moreysintransit.com/install-roof-fan-van/?replytocom=86#respond
+                  - text: Reply
+                - generic [ref=e273]:
+                  - link "Fan install with 3m 4000UV - Ford Transit USA Forum" [ref=e275] [cursor=pointer]:
+                    - /url: http://www.fordtransitusaforum.com/camper-vans-conversions/29042-fan-install-3m-4000uv.html#post373434
+                  - generic [ref=e276]: July 8, 2016
+                - paragraph [ref=e278]:
+                  - text: "[…] If I did Gidget again we probably would have just use the 4200 for everything. From"
+                  - link "http://moreysintransit.com/install-roof-fan-van/" [ref=e279] [cursor=pointer]:
+                    - /url: index.html
+                  - text: ": […]"
+            - listitem [ref=e280]:
+              - generic [ref=e283]:
+                - link "Reply to Rochell Smith" [ref=e284] [cursor=pointer]:
+                  - /url: https://moreysintransit.com/install-roof-fan-van/?replytocom=132#respond
+                  - text: Reply
+                - generic [ref=e285]:
+                  - link "Rochell Smith" [ref=e287] [cursor=pointer]:
+                    - /url: http://www.wideawakeroofers.com/
+                  - generic [ref=e288]: August 29, 2016
+                - paragraph [ref=e290]: I like your website and I am glad you are trying to do a god job. Very comprehensive pictures.
+            - listitem [ref=e291]:
+              - generic [ref=e293]:
+                - link "Reply to Roof vent install - Ford Transit USA Forum" [ref=e294] [cursor=pointer]:
+                  - /url: https://moreysintransit.com/install-roof-fan-van/?replytocom=257#respond
+                  - text: Reply
+                - generic [ref=e295]:
+                  - link "Roof vent install - Ford Transit USA Forum" [ref=e297] [cursor=pointer]:
+                    - /url: http://www.fordtransitusaforum.com/ford-transit-general-discussion/36809-roof-vent-install.html#post452873
+                  - generic [ref=e298]: December 2, 2016
+                - paragraph [ref=e300]:
+                  - text: "[…] what opinions are out there. For the curious, I'm mostly following the Moreys in Transit ("
+                  - link "http://moreysintransit.com/install-roof-fan-van/" [ref=e301] [cursor=pointer]:
+                    - /url: index.html
+                  - text: ) approach with the only difference being that I didn't believe that I could make the jig saw cuts […]
+            - listitem [ref=e302]:
+              - generic [ref=e305]:
+                - link "Reply to Jack" [ref=e306] [cursor=pointer]:
+                  - /url: https://moreysintransit.com/install-roof-fan-van/?replytocom=292#respond
+                  - text: Reply
+                - generic [ref=e307]:
+                  - generic [ref=e308]: Jack
+                  - generic [ref=e309]: December 30, 2016
+                - paragraph [ref=e311]:
+                  - text: you guys did a GR8 job ~ enjoyed the narrative ~
+                  - text: did you have to cut a hole in the floor to let the water out ~
+                  - text: just wondering as I wander through life ~
+              - list [ref=e312]:
+                - listitem [ref=e313]:
+                  - generic [ref=e316]:
+                    - link "Reply to Matt" [ref=e317] [cursor=pointer]:
+                      - /url: https://moreysintransit.com/install-roof-fan-van/?replytocom=297#respond
+                      - text: Reply
+                    - generic [ref=e318]:
+                      - generic [ref=e319]: Matt
+                      - generic [ref=e320]: January 2, 2017
+                    - paragraph [ref=e322]: No hole in the floor. Fan doesn’t allow water in.
+            - listitem [ref=e323]:
+              - generic [ref=e325]:
+                - link "Reply to Maxxair Fan Internal Mounting - Ford Transit USA Forum" [ref=e326] [cursor=pointer]:
+                  - /url: https://moreysintransit.com/install-roof-fan-van/?replytocom=343#respond
+                  - text: Reply
+                - generic [ref=e327]:
+                  - link "Maxxair Fan Internal Mounting - Ford Transit USA Forum" [ref=e329] [cursor=pointer]:
+                    - /url: http://www.fordtransitusaforum.com/camper-vans-conversions/40530-maxxair-fan-internal-mounting.html#post506602
+                  - generic [ref=e330]: February 14, 2017
+                - paragraph [ref=e332]: "[…] – I hadn't noticed this. Looking at the Morey's install a little more I realized that you can't really put any fender washer on the front/back of the […]"
+            - listitem [ref=e333]:
+              - generic [ref=e336]:
+                - link "Reply to Greg" [ref=e337] [cursor=pointer]:
+                  - /url: https://moreysintransit.com/install-roof-fan-van/?replytocom=386#respond
+                  - text: Reply
+                - generic [ref=e338]:
+                  - generic [ref=e339]: Greg
+                  - generic [ref=e340]: March 21, 2017
+                - generic [ref=e341]:
+                  - paragraph [ref=e342]: Thanks for all of this. It worked great.
+                  - paragraph [ref=e343]:
+                    - text: "I pretty much followed all of your instructions except:"
+                    - text: 1. Bought a cheapo 5amp Harbor Freight skill saw and the pack with ‘thin metal blades’, worked okay.
+                    - text: 2. I had Hein’s inside adapter so I cut it down to just the two ‘gutter sides’ and put bolts thru.
+                    - text: They also made it easy to figure out where to drill the corner holes.
+                  - paragraph [ref=e344]:
+                    - text: I used the eternabond tape and while watertight, it is pretty wrinkled, but really you can’t see it.
+                    - text: I didn’t use lap sealant because I know I wouldn’t have got it any smoother.
+                  - paragraph [ref=e345]: thank you, thank you!
+                  - paragraph [ref=e346]:
+                    - text: Greg
+                    - text: Oceanside, Ca
+            - listitem [ref=e347]:
+              - generic [ref=e350]:
+                - link "Reply to Alan Pinho" [ref=e351] [cursor=pointer]:
+                  - /url: https://moreysintransit.com/install-roof-fan-van/?replytocom=662#respond
+                  - text: Reply
+                - generic [ref=e352]:
+                  - generic [ref=e353]: Alan Pinho
+                  - generic [ref=e354]: August 18, 2017
+                - paragraph [ref=e356]: After looking at all the Vans, I like the Ford Transit the best. I just watched the video regarding installing the vent, great job, thanks for videoing your efforts.
+            - listitem [ref=e357]:
+              - generic [ref=e360]:
+                - link "Reply to Antonio" [ref=e361] [cursor=pointer]:
+                  - /url: https://moreysintransit.com/install-roof-fan-van/?replytocom=667#respond
+                  - text: Reply
+                - generic [ref=e362]:
+                  - generic [ref=e363]: Antonio
+                  - generic [ref=e364]: August 24, 2017
+                - generic [ref=e365]:
+                  - paragraph [ref=e366]: Hey guys, I’m about to buy my adapter but i noticed they also sell the framing strips for inside the van. Do you think those are necessary for support? I’m thinking it could be good when I put the insulation around the fan.
+                  - paragraph [ref=e367]: Thanks!
+              - list [ref=e368]:
+                - listitem [ref=e369]:
+                  - generic [ref=e372]:
+                    - link "Reply to Matt" [ref=e373] [cursor=pointer]:
+                      - /url: https://moreysintransit.com/install-roof-fan-van/?replytocom=668#respond
+                      - text: Reply
+                    - generic [ref=e374]:
+                      - generic [ref=e375]: Matt
+                      - generic [ref=e376]: August 24, 2017
+                    - paragraph [ref=e378]: It depends on where you install the fan. If it’s in the same location as us the interior frame wont fit due to the ribs. If we were to install the fan anywhere else we would recommend using the interior frame.
+            - listitem [ref=e379]:
+              - generic [ref=e382]:
+                - link "Reply to Drago" [ref=e383] [cursor=pointer]:
+                  - /url: https://moreysintransit.com/install-roof-fan-van/?replytocom=768#respond
+                  - text: Reply
+                - generic [ref=e384]:
+                  - generic [ref=e385]: Drago
+                  - generic [ref=e386]: October 20, 2017
+                - paragraph [ref=e388]: Would a round circular cutout the size of fan prop work?
+              - list [ref=e389]:
+                - listitem [ref=e390]:
+                  - generic [ref=e393]:
+                    - link "Reply to Matt" [ref=e394] [cursor=pointer]:
+                      - /url: https://moreysintransit.com/install-roof-fan-van/?replytocom=771#respond
+                      - text: Reply
+                    - generic [ref=e395]:
+                      - generic [ref=e396]: Matt
+                      - generic [ref=e397]: October 21, 2017
+                    - paragraph [ref=e399]: Not for the MaxAir. Must be square for the shroud to fit.
+            - listitem [ref=e400]:
+              - generic [ref=e403]:
+                - link "Reply to Gayle S" [ref=e404] [cursor=pointer]:
+                  - /url: https://moreysintransit.com/install-roof-fan-van/?replytocom=811#respond
+                  - text: Reply
+                - generic [ref=e405]:
+                  - generic [ref=e406]: Gayle S
+                  - generic [ref=e407]: November 10, 2017
+                - paragraph [ref=e409]: "Hi there! We’re about ready to install our MaxxFan in the Transit. I read thru your post and at the end you mentioned if you had to do it over again you would: “Have used 3M 4200 to mount the flange to the adapter plate instead of screws.” We are planning on not using screws and just the adhesive. Do you still think this is the way to go, no screws? TY"
+              - list [ref=e410]:
+                - listitem [ref=e411]:
+                  - generic [ref=e414]:
+                    - link "Reply to Matt" [ref=e415] [cursor=pointer]:
+                      - /url: https://moreysintransit.com/install-roof-fan-van/?replytocom=813#respond
+                      - text: Reply
+                    - generic [ref=e416]:
+                      - generic [ref=e417]: Matt
+                      - generic [ref=e418]: November 10, 2017
+                    - paragraph [ref=e420]: Yes. But either method will work.
+                  - list [ref=e421]:
+                    - listitem [ref=e422]:
+                      - generic [ref=e425]:
+                        - link "Reply to Christopher" [ref=e426] [cursor=pointer]:
+                          - /url: https://moreysintransit.com/install-roof-fan-van/?replytocom=925#respond
+                          - text: Reply
+                        - generic [ref=e427]:
+                          - generic [ref=e428]: Christopher
+                          - generic [ref=e429]: January 19, 2018
+                        - generic [ref=e430]:
+                          - paragraph [ref=e431]: Excellent instructions and very clean install Matt! I really appreciate your website.
+                          - paragraph [ref=e432]: Gayle’s comment made we want to confirm that zero screws or butyl tape would be used for any part of this method that she is talking about, only adhesives? That would simplify the install considerably and mean that the only hole in the roof would be the 14″ x 14″ square one? Please let me know if I have misunderstood any of that.
+                          - paragraph [ref=e433]: What are the pros and cons of having the fan way towards the back? I thought about installing it further forward, so I could reach the controls without getting on the platform bed. I guess the air flow from the forward windows would be more throughout the van with the fan at the back?
+                          - paragraph [ref=e434]: I started my Transit camper van conversion with installing 4 windows before my construction buddy left town for 2 months. After working with him on the first 2 windows, I did most of the install of the final 2. So, I think I am ready to tackle this Maxxfan installation solo.
+                          - paragraph [ref=e435]: Thanks again!
+                      - list [ref=e436]:
+                        - listitem [ref=e437]:
+                          - generic [ref=e440]:
+                            - link "Reply to Matt" [ref=e441] [cursor=pointer]:
+                              - /url: https://moreysintransit.com/install-roof-fan-van/?replytocom=926#respond
+                              - text: Reply
+                            - generic [ref=e442]:
+                              - generic [ref=e443]: Matt
+                              - generic [ref=e444]: January 19, 2018
+                            - generic [ref=e445]:
+                              - blockquote [ref=e446]:
+                                - paragraph [ref=e447]: Gayle’s comment made we want to confirm that zero screws or butyl tape would be used for any part of this method that she is talking about, only adhesives? That would simplify the install considerably and mean that the only hole in the roof would be the 14″ x 14″ square one? Please let me know if I have misunderstood any of that.
+                              - paragraph [ref=e448]: Yes, you could do the install with just adhesives and only a single 14″ square hole. My install only has one single 14″ square hole.
+                              - blockquote [ref=e449]:
+                                - paragraph [ref=e450]: What are the pros and cons of having the fan way towards the back? I thought about installing it further forward, so I could reach the controls without getting on the platform bed. I guess the air flow from the forward windows would be more throughout the van with the fan at the back?
+                              - paragraph [ref=e451]: The fan I have came with a remote so I can turn it on from the front cab without getting on the bed. Unless you put a vent in the floor, most of the airflow will bypass the living quarters, it pretty much just comes in the front windows, goes to the roof and then out the fan. I plan on adding a vent behind our fride on the floor to help cool the fridge coils and improve the air flow. We choose the back location as we have a solar panel on the roof towards the front of the van that would have blocked the fan.
+            - listitem [ref=e452]:
+              - generic [ref=e455]:
+                - link "Reply to Jay" [ref=e456] [cursor=pointer]:
+                  - /url: https://moreysintransit.com/install-roof-fan-van/?replytocom=904#respond
+                  - text: Reply
+                - generic [ref=e457]:
+                  - generic [ref=e458]: Jay
+                  - generic [ref=e459]: January 5, 2018
+                - paragraph [ref=e461]: Thanks for the good information. One question on using 3M adhesive to attach fan flange to the adapter. Would you put butyl tape as you did and 3M adhesive on top of that? I mean together?
+              - list [ref=e462]:
+                - listitem [ref=e463]:
+                  - generic [ref=e466]:
+                    - link "Reply to Matt" [ref=e467] [cursor=pointer]:
+                      - /url: https://moreysintransit.com/install-roof-fan-van/?replytocom=905#respond
+                      - text: Reply
+                    - generic [ref=e468]:
+                      - generic [ref=e469]: Matt
+                      - generic [ref=e470]: January 6, 2018
+                    - paragraph [ref=e472]: No, I would just use 3M adhesive.
+            - listitem [ref=e473]:
+              - generic [ref=e476]:
+                - link "Reply to John" [ref=e477] [cursor=pointer]:
+                  - /url: https://moreysintransit.com/install-roof-fan-van/?replytocom=940#respond
+                  - text: Reply
+                - generic [ref=e478]:
+                  - generic [ref=e479]: John
+                  - generic [ref=e480]: January 25, 2018
+                - generic [ref=e481]:
+                  - paragraph [ref=e482]: Thanks for this well documented and clearly explained installation. You guys do a great job on all your posts.
+                  - paragraph [ref=e483]: As a autobody professional, I would caution you against using acetone for a surface prep cleaner on painted surfaces. Acetone is far too harsh a solvent for that purpose and will partially dissolve the clearcoat, leaving it permanently damaged. I don’t mean that your roof’s going to cave in, but it doesn’t help the long term life of the paint, especially since the roof surface takes the most weather abuse.
+                  - paragraph [ref=e484]:
+                    - text: "Next time you need to prep a painted surface, I recommend using a standard automotive wax and grease remover (available from any autobody supply store) like PPG DX330, or if you are a dedicated Amazonian, there’s also this wax and tar remover:"
+                    - link "https://www.amazon.com/Rust-Oleum-Automotive-251475-32-Ounce-Remover/dp/B006ZLQELW/ref=sr_1_5?ie=UTF8&qid=1516893318&sr=8-5&keywords=wax+grease+remover" [ref=e485] [cursor=pointer]:
+                      - /url: https://www.amazon.com/Rust-Oleum-Automotive-251475-32-Ounce-Remover/dp/B006ZLQELW/ref=sr_1_5?ie=UTF8&qid=1516893318&sr=8-5&keywords=wax+grease+remover
+                  - paragraph [ref=e486]: After the work is finished, apply any standard automotive wax to restore protection over the paint.
+            - listitem [ref=e487]:
+              - generic [ref=e490]:
+                - link "Reply to Don Bertolette" [ref=e491] [cursor=pointer]:
+                  - /url: https://moreysintransit.com/install-roof-fan-van/?replytocom=3298#respond
+                  - text: Reply
+                - generic [ref=e492]:
+                  - generic [ref=e493]: Don Bertolette
+                  - generic [ref=e494]: July 3, 2019
+                - paragraph [ref=e496]: I would add to John’s admonition regarding acetone…it is a a very powerful solvent, and shouldn’t be handled without PPE (rubber gloves, respirator) and away from any ignition source. It’s very volatile.
+            - listitem [ref=e497]:
+              - generic [ref=e500]:
+                - link "Reply to Steve McElwee" [ref=e501] [cursor=pointer]:
+                  - /url: https://moreysintransit.com/install-roof-fan-van/?replytocom=3525#respond
+                  - text: Reply
+                - generic [ref=e502]:
+                  - generic [ref=e503]: Steve McElwee
+                  - generic [ref=e504]: September 24, 2019
+                - paragraph [ref=e506]: Matt – I have the same van as you guys with no windows that open. I do not plan on adding any windows and was wondering how much air does the one Maxx-Air move and does it keep you comfortable when camping and the van is shut up. I was considering an AC unit and one Maxx-Air but now thinking of NO AC unit and maybe two fans?? Do you think the one fan is sufficient as you have? Would you think two fans would be better?
+            - listitem [ref=e507]:
+              - generic [ref=e510]:
+                - link "Reply to Brett Hawton" [ref=e511] [cursor=pointer]:
+                  - /url: https://moreysintransit.com/install-roof-fan-van/?replytocom=3612#respond
+                  - text: Reply
+                - generic [ref=e512]:
+                  - generic [ref=e513]: Brett Hawton
+                  - generic [ref=e514]: October 18, 2019
+                - paragraph [ref=e516]:
+                  - text: Eternabond is meant to be used on flat surfaces!!!
+                  - text: How do I know???
+                  - text: I read this blog and used it on my brand new van only to find water squishing out when I pressed on the tape after a rainstorm. It took me 8 hours using a heat gun, plastic scraper, and mineral spirits to remove this crap from both my fans so I can have the entire roof & fan frames coated with Line-X. Do not use Eternabond for this application unless you want a leaky/rusty van.
+              - list [ref=e517]:
+                - listitem [ref=e518]:
+                  - generic [ref=e521]:
+                    - link "Reply to Matt" [ref=e522] [cursor=pointer]:
+                      - /url: https://moreysintransit.com/install-roof-fan-van/?replytocom=3615#respond
+                      - text: Reply
+                    - generic [ref=e523]:
+                      - generic [ref=e524]: Matt
+                      - generic [ref=e525]: October 19, 2019
+                    - paragraph [ref=e527]: Interesting, no leaks on mine, I wonder what the difference is.
+            - listitem [ref=e528]:
+              - generic [ref=e531]:
+                - link "Reply to Brett Hawton" [ref=e532] [cursor=pointer]:
+                  - /url: https://moreysintransit.com/install-roof-fan-van/?replytocom=3617#respond
+                  - text: Reply
+                - generic [ref=e533]:
+                  - generic [ref=e534]: Brett Hawton
+                  - generic [ref=e535]: October 19, 2019
+                - paragraph [ref=e537]:
+                  - text: The fan shouldn’t leak if installed properly. Eternabond or Dicor is just another seal on top of everything.
+                  - text: Did you go up on top of your van after it rained and push on the tape to see if there’s any trapped water?
+      - generic [ref=e542]:
+        - generic [ref=e543]:
+          - link "#latergram Another one from the Grand Canyon. The" [ref=e546] [cursor=pointer]:
+            - /url: https://www.instagram.com/p/BzDuULhBxYr/
+            - text: "#latergram Another one from the Grand Canyon. The"
+            - img [ref=e547]
+          - link "Gidget’s first trip to the Grand Canyon was a succ" [ref=e550] [cursor=pointer]:
+            - /url: https://www.instagram.com/p/Bx_QPSohc4C/
+            - text: Gidget’s first trip to the Grand Canyon was a succ
+            - img [ref=e551]
+          - link "Sand dunes are out of this world!" [ref=e554] [cursor=pointer]:
+            - /url: https://www.instagram.com/p/Bx4sgkShoxH/
+            - text: Sand dunes are out of this world!
+            - img [ref=e555]
+        - link "Follow us on Instagram" [ref=e558] [cursor=pointer]:
+          - /url: https://www.instagram.com/moreysintransit/
+          - img [ref=e559]
+          - text: Follow us on Instagram
+    - generic [ref=e562]: Copyright Morey's In Transit

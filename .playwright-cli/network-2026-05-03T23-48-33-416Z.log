@@ -1,0 +1,5 @@
+[GET] https://www.youtube.com/embed/zco4sR5UK-E => [FAILED] net::ERR_ABORTED
+[GET] https://www.youtube.com/embed/zco4sR5UK-E => [FAILED] net::ERR_ABORTED
+[GET] https://googleads.g.doubleclick.net/pagead/id => [FAILED] net::ERR_FAILED
+[GET] https://googleads.g.doubleclick.net/pagead/id => [FAILED] net::ERR_FAILED
+[POST] https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT
